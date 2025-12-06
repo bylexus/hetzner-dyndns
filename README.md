@@ -26,7 +26,7 @@ Dieses Script verwenden Sie, wenn Sie die bisherige Hetzner DNS-API <https://dns
 
 1. **Script herunterladen**
    ```bash
-   wget https://raw.githubusercontent.com/bylexus/hetzner-dyndns/main/hetzner_dyndns.php
+   wget https://raw.githubusercontent.com/sakis-tech/hetzner-dyndns/main/hetzner_dyndns.php
    ```
 
 2. **Auf Webserver hochladen**
@@ -45,7 +45,7 @@ Dieses Script verwenden Sie, wenn Sie bereits die neue DNS-API der Hetzner Cloud
 
 1. **Script herunterladen**
    ```bash
-   wget https://raw.githubusercontent.com/bylexus/hetzner-dyndns/main/hetzner_dyndns_cloud.php
+   wget https://raw.githubusercontent.com/sakis-tech/hetzner-dyndns/main/hetzner_dyndns_cloud.php
    ```
 
 2. **Auf Webserver hochladen**
